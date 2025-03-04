@@ -1,2 +1,0 @@
-I am learning Git 
-I am pushing my code to github
